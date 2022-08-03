@@ -6,3 +6,5 @@ Making some changes to your repository.
  
  let's rock
  
+ learning git
+ 
